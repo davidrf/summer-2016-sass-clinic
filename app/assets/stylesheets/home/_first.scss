@@ -1,0 +1,13 @@
+.first {
+  h1 {
+    color: $chocolate;
+  }
+
+  p {
+    color: $blue;
+  }
+
+  &:hover {
+    background-color: $blue;
+  }
+}

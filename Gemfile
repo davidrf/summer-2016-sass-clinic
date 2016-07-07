@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "coffee-rails", "~> 4.1.0"
 gem "jbuilder", "~> 2.0"
 gem "jquery-rails"
+gem 'foundation-rails'
 gem "pg"
 gem "rails"
 gem "sass-rails", "~> 5.0"
